@@ -1,0 +1,17 @@
+{
+  "name": "naver-real-estate-collector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Playwright-based Naver Pay real-estate listing collector",
+  "scripts": {
+    "collect": "node src/collect.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
