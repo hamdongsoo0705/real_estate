@@ -1,0 +1,41 @@
+name: Daily apartment listing report
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 매일 한국시간 오전 8시
+    - cron: '0 23 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm install
+
+      - run: npx playwright install --with-deps chromium
+
+      - run: npm test
+
+      - name: Collect listings
+        run: npm run collect
+
+      - name: Upload report and diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apartment-report-${{ github.run_number }}
+          path: output/
+          if-no-files-found: warn
+          retention-days: 30
