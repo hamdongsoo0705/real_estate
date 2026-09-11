@@ -1,4 +1,4 @@
-complexName,complexNumber,supplySpace,supplySpaceName,articleNumber,dealPrice,dongName,floorInfo,articleConfirmDate,exposureStartDate,articleFeatureDescription,realtorCount
+﻿complexName,complexNumber,supplySpace,supplySpaceName,articleNumber,dealPrice,dongName,floorInfo,articleConfirmDate,exposureStartDate,articleFeatureDescription,realtorCount
 마곡엠밸리1단지,107482,119,119C㎡,,170000,104동,저/13층,2026.09.07,,,2
 마곡엠밸리1단지,107482,119,119C㎡,,180000,104동,중/13층,2026.09.11,,,6
 마곡엠밸리1단지,107482,119,119C㎡,2646240257,190000,104동,고/13층,2026.08.27,,깨끗한 남향 로열층. 9호선신방화역 초역세권.초중고 인접.입주시기 협의가,1
@@ -295,4 +295,3 @@ complexName,complexNumber,supplySpace,supplySpaceName,articleNumber,dealPrice,do
 올림픽선수기자촌,634,132,132B㎡,2648964980,299000,102동,고/14층,2026.09.10,,트인조망 잘 관리되어 내부 컨디션 깔끔,1
 올림픽선수기자촌,634,132,132B㎡,,300000,133동,3/12층,2026.09.11,,,9
 올림픽선수기자촌,634,132,132B㎡,,300000,123동,고/12층,2026.09.11,,,16
-
