@@ -1,12 +1,431 @@
 [
   {
+    "region": "마곡",
+    "complexName": "마곡엠밸리1단지",
     "complexNumber": 107482,
-    "complexName": "complex-107482",
-    "enabled": true
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaR1V-2AM7zC&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7ABYAHACYAvtSZZ6CABYAFeoxaxwpAEZww9IhATYq%2BuoeNYAKg0JWAnmiwawAQT4BaAEJ9TRBgB2TCQIhkgByvZY4QDmDk4AcgCuKNpYdHoSfoHBoRDhNiR2jlh67mAyYHTESXQBJNomsP5JWFIAukA",
+    "enabled": true,
+    "collectionReady": true
   },
   {
+    "region": "마곡",
+    "complexName": "마곡엠밸리2단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107960,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaWDv-2AMaAe&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7AE4AbAIC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리3단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107961,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaUEB-2AM7oO&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7AE4AbHwC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리4단지",
     "complexNumber": 107483,
-    "complexName": "complex-107483",
-    "enabled": true
+    "enabled": true,
+    "collectionReady": true,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zb6O9-2AM9Nc&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7ABYAHAGYAvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDHOqkARnDD0iEBNjAywdYgFc6AOxKWnsIjp3LCkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리5단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107475,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaOuP-2AM240&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7ABYhAVgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리6단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107506,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaV45-2AM1QC&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7AFYBANgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리7단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107477,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zb2uf-2ALZzu&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7ABYhQgL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리8단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 112211,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaTxz-2ALVR0&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBMggQF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIZJ1UgCM4YekQgJsYcWDrEArnQB2JE7dhE6TrKIBdIA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리9단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 131224,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaRPL-2ALRv0&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGY%2BAJmEAWAL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리10단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 112279,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaSWt-2ALLkg&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBMggOwBOAL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리11단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 112280,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaXK3-2ALJX6&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBMggBwAGAL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리12단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 112281,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zb2eB-2ALK9w&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBMggBx8AvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDNOqkARnDD0iEBNjCSwdYgFc6AOxJn7sInRdY4gC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡13단지힐스테이트마스터",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 109799,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaQ7D-2ALGH0&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYAnAHYhQgL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리14단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107504,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zb6Wd-2ALD7y&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7AFYBAFgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡엠밸리15단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107505,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zbfw9-2ALEao&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7AFYBIgL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "마곡",
+    "complexName": "마곡힐스테이트",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 108359,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zaPPT-2ALWF0&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYAHAGYArAE4AvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDHOqkARnDD0iEBNjAywdYgFc6AOxKWnsIjp3LCkAXSA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지1단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 652,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zdp7n-2AKV2Y&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYATAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지2단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 653,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zdgh9-2AKPvK&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYAzAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지3단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 654,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zd8tr-2AKHnI&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYALAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지4단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 655,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zd4Xd-2AKB3W&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYBAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지5단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 656,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zdrSl-2AKG3M&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFY%2BAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지6단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 658,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zdDnz-2AKI8E&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYAHAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지7단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 659,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcVfh-2AKt06&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAFYAnAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지8단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 440,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcUMf-2AKaga&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsALHwAMAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지9단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 959,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcOcl-2AK5fQ&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAnAFY%2BAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지10단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 664,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcwOh-2AJZYA&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbHwAsAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지11단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 22959,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcwJV-2AJLnq&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATHwCcAVkEBfakyz0EACwAK9Ri1jgITAGrkMJOADMSGKdVIAjOGHpEICbGAlg6xAK50AdiVN3YROs6xiALpAA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지12단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 666,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcDOt-2AJNUQ&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAIC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMo6qQBGcMPSIQE2MMLB1iAVzoA7EgcuwidO1kEBdIA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지13단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 438,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zcNSF-2AJQSI&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsALAGYAHAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "목동",
+    "complexName": "목동신시가지14단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 669,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zd9od-2AJSfe&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbHwCcAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhnHVSAIzhh6RCAmxhRYOsQCudAHYkj12EToOswgLpAA"
+  },
+  {
+    "region": "강남",
+    "complexName": "은마아파트",
+    "naverComplexName": "은마",
+    "searchQuery": "은마 대치동",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 236,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlcfJ-2AJ9QY&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATAGYAbAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "강남",
+    "complexName": "도곡렉슬",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 11698,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zkBxL-2AJ02K&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBsATgAcAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "강남",
+    "complexName": "래미안대치팰리스",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 180280,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zkYal-2AJ2yS&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAA4ADACZhAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "강남",
+    "complexName": "디에이치퍼스티어아이파크",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 134062,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zkRyl-2AIqZc&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYALAAYAbACYAvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDHOqkARnDD0iEBNjAywdYgFc6AOxKWnsIjp3LCkAXSA"
+  },
+  {
+    "region": "강남",
+    "complexName": "개포자이프레지던스",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 128527,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlti1-2AIDfc&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjACYAHAFYBAdgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "강남",
+    "complexName": "래미안블레스티지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 112228,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zl9Y7-2AIsIs&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwBMwgBwBfakyz0EACwAK9Ri1jgITAGrkMJOADMSGKdVIAjOGHpEICbGAlg6xAK50AdiVN3YROs6xiALpAA"
+  },
+  {
+    "region": "강남",
+    "complexName": "개포래미안포레스트",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 119219,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zkJzv-2AIlVu&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjHwCcAJiEBfakyz0EACwAK9Ri1jgITAGrkMJOADMSGKdVIAjOGHpEICbGAlg6xAK50AdiVN3YROs6xiALpAA"
+  },
+  {
+    "region": "강남",
+    "complexName": "대치아이파크",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 19418,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zkKZf-2AJ2lu&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAE4ALHwAcAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "서초",
+    "complexName": "반포자이",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 22853,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zj4GX-2AJAf6&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATHwAcAVgDMAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "서초",
+    "complexName": "래미안원베일리",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 142155,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zioi5-2AJxGo&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjABYATHwCsogL7UmWeggAWABXqMWscBCYA1chhJwAZiQwzqpAEZww9IhATYwUsHWIBXOgDsS5h7CJ1XLAkAXSA"
+  },
+  {
+    "region": "서초",
+    "complexName": "아크로리버파크",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 107613,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zibC7-2AJvPI&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYA7ADY%2BAZgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "서초",
+    "complexName": "래미안퍼스티지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 23759,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zisij-2AJnOi&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATAGYA7AFYAnAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYZ1UgCM4YekQgJsYKWDrEArnQB2Jcw9hE6rlgSALpAA"
+  },
+  {
+    "region": "서초",
+    "complexName": "서초그랑자이",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 126726,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zjyxr-2AINKE&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjACYAbAHZhAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "송파",
+    "complexName": "헬리오시티",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 111515,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zmY47-2AJ9Oo&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAICsfQQF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIZJ1UgCM4YekQgJsYcWDrEArnQB2JE7dhE6TrKIBdIA"
+  },
+  {
+    "region": "송파",
+    "complexName": "파크리오",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 22675,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zn1Jn-2AK9ly&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATHwBsAdgCsAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "송파",
+    "complexName": "잠실엘스",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 22627,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlTb1-2AJOIw&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATHwBsfAOwBfakyz0EACwAK9Ri1jgITAGrkMJOADMSGKdVIAjOGHpEICbGAlg6xAK50AdiVN3YROs6xiALpAA"
+  },
+  {
+    "region": "송파",
+    "complexName": "리센츠",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 22746,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zm6GL-2AJOsS&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsATHwDsAFgBsAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "송파",
+    "complexName": "트리지움",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 19127,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zmaXV-2AJFwc&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAE4%2BAJgDsAX2pMs9BAAsACvUYtY4CEwBq5DCTgAzEhmnVSAIzhh6RCAmxhJYOsQCudAHYkz92ETouscQBdIA"
+  },
+  {
+    "region": "송파",
+    "complexName": "레이크팰리스",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 104607,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zvJvP-2AeoEG&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYALADYBAdgC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMs6qQBGcMPSIQE2MNLB1iAVzoA7EhcewidG5YkgC6QA"
+  },
+  {
+    "region": "송파",
+    "complexName": "올림픽선수기자촌",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 634,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zobpp-2AJT92&zoom=15.757060940340766&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAbAGYALAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+  },
+  {
+    "region": "강남",
+    "complexName": "개포주공6단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 1303,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zobpp-2AJT92&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAIC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMk6qQBGcMPSIQE2MOLB1iAVzoA7EiduwidJ1lEAukA"
+  },
+  {
+    "region": "강남",
+    "complexName": "개포주공7단지",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 1307,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlqlh-2AIMsa&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAHYAvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDFOqkARnDD0iEBNjASwdYgFc6AOxKm7sInWdYxAF0gA"
+  },
+  {
+    "region": "강남",
+    "complexName": "대치미도아파트",
+    "naverComplexName": "한보미도맨션1,2차",
+    "searchQuery": "한보미도맨션1,2차",
+    "enabled": true,
+    "collectionReady": true,
+    "complexNumber": 105,
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlvoP-2AIOPU&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYArAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
   }
 ]
+
