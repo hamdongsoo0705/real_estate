@@ -406,7 +406,13 @@ async function main() {
 
   // This is a dedicated collector Chrome. Closing the CDP browser after the
   // files are written lets the scheduled PowerShell job continue to publish.
-  await browser.close().catch((error) => {
+  await Promise.race([
+    browser.close(),
+    new Promise((resolve) => setTimeout(() => {
+      console.warn('[WARN] collector Chrome close timed out after 10 seconds; continuing to publish');
+      resolve();
+    }, 10_000)),
+  ]).catch((error) => {
     console.warn(`[WARN] collector Chrome did not close cleanly: ${error.message ?? error}`);
   });
 
