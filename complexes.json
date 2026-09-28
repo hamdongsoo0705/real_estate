@@ -407,7 +407,7 @@
     "enabled": true,
     "collectionReady": true,
     "complexNumber": 1303,
-    "pageUrl": "https://fin.land.naver.com/map?center=3zobpp-2AJT92&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAIC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMk6qQBGcMPSIQE2MOLB1iAVzoA7EiduwidJ1lEAukA"
+    "pageUrl": "https://fin.land.naver.com/map?center=3zobpp-2AJT92&zoom=15.757060940340766&tradeTypes=A1&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAIC%2B1JlnoIAFgAV6jFrHAQmANXIYScAGYkMk6qQBGcMPSIQE2MOLB1iAVzoA7EiduwidJ1lEAukA"
   },
   {
     "region": "강남",
@@ -415,7 +415,7 @@
     "enabled": true,
     "collectionReady": true,
     "complexNumber": 1307,
-    "pageUrl": "https://fin.land.naver.com/map?center=3zlqlh-2AIMsa&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAHYAvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDFOqkARnDD0iEBNjASwdYgFc6AOxKm7sInWdYxAF0gA"
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlqlh-2AIMsa&zoom=15.757060940340766&tradeTypes=A1&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAGYADAHYAvtSZZ6CABYAFeoxaxwEJgDVyGEnABmJDFOqkARnDD0iEBNjASwdYgFc6AOxKm7sInWdYxAF0gA"
   },
   {
     "region": "강남",
@@ -425,7 +425,6 @@
     "enabled": true,
     "collectionReady": true,
     "complexNumber": 105,
-    "pageUrl": "https://fin.land.naver.com/map?center=3zlvoP-2AIOPU&zoom=15.757060940340766&tradeTypes=A1&dealPrice=0-2800000000&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYArAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
+    "pageUrl": "https://fin.land.naver.com/map?center=3zlvoP-2AIOPU&zoom=15.757060940340766&tradeTypes=A1&layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYArAF9qTLPQQALAAr1GLWOAhMAauQwk4AMxIYJ1UgCM4YekQgJsYMWDrEArnQB2JYzdhE6jrCIC6QA"
   }
 ]
-
