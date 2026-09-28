@@ -9,7 +9,7 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const outDir = path.join(ROOT, 'output');
 const PYEONG_PER_SQM = 0.3025;
 async function openComplex(page, complex) {
-  if (!complex.pageUrl) throw new Error('complexes.json에 pageUrl이 없습니다');
+  if (!complex.pageUrl) throw new Error('complexes.json�� pageUrl�� �����ϴ�');
   if (page.url() !== complex.pageUrl) {
     await page.goto(complex.pageUrl, { waitUntil: 'domcontentloaded', timeout: 60_000 });
   }
@@ -19,7 +19,7 @@ async function openComplex(page, complex) {
     exact: true,
   }).first();
   await heading.waitFor({ state: 'visible', timeout: 30_000 });
-  await page.getByRole('heading', { name: /매물\s*\d+\s*개/ })
+  await page.getByRole('heading', { name: /�Ź�\s*\d+\s*��/ })
     .waitFor({ state: 'visible', timeout: 30_000 });
 }
 
@@ -34,7 +34,7 @@ async function renderedCards(page) {
 async function openCheckboxFilter(page, buttonId, labelPrefix) {
   const button = page.locator(`button#${buttonId}`).first();
   if (!await button.isVisible().catch(() => false)) {
-    throw new Error(`${buttonId} 필터 버튼을 찾지 못했습니다`);
+    throw new Error(`${buttonId} ���� ��ư�� ã�� ���߽��ϴ�`);
   }
   // React mounts the checkbox layer only after the chip is opened.
   let options = page.locator(`label[for^="${labelPrefix}"]`);
@@ -49,23 +49,23 @@ async function openCheckboxFilter(page, buttonId, labelPrefix) {
     options = page.locator(`label[for^="${labelPrefix}"]`);
   }
   if (!await options.first().isVisible().catch(() => false)) {
-    throw new Error(`${buttonId} 필터 항목을 열지 못했습니다`);
+    throw new Error(`${buttonId} ���� �׸��� ���� ���߽��ϴ�`);
   }
   return { button, options };
 }
 
 async function selectSaleOnly(page) {
-  const currentButton = page.locator('button#거래유형').first();
+  const currentButton = page.locator('button#�ŷ�����').first();
   if (await currentButton.isVisible().catch(() => false)
-    && (await currentButton.innerText()).trim() === '매매') {
+    && (await currentButton.innerText()).trim() === '�Ÿ�') {
     return;
   }
-  const { button } = await openCheckboxFilter(page, '거래유형', '거래유형-checkbox-');
-  const sale = page.locator('label[for="거래유형-checkbox-A1"]');
+  const { button } = await openCheckboxFilter(page, '�ŷ�����', '�ŷ�����-checkbox-');
+  const sale = page.locator('label[for="�ŷ�����-checkbox-A1"]');
   if (!String(await sale.getAttribute('class')).includes('is-checked')) await sale.click();
 
   for (const code of ['B1', 'B2', 'B3']) {
-    const option = page.locator(`label[for="거래유형-checkbox-${code}"]`);
+    const option = page.locator(`label[for="�ŷ�����-checkbox-${code}"]`);
     if (await option.count()
       && String(await option.getAttribute('class')).includes('is-checked')) {
       await option.click();
@@ -77,13 +77,13 @@ async function selectSaleOnly(page) {
 }
 
 async function targetAreaGroups(page, { minPyeong = 30, maxPyeong = 39 } = {}) {
-  const { button, options } = await openCheckboxFilter(page, '면적', '면적-checkbox-');
+  const { button, options } = await openCheckboxFilter(page, '����', '����-checkbox-');
   const optionCount = await options.count();
   const groups = new Map();
   for (let index = 0; index < optionCount; index += 1) {
     const option = options.nth(index);
     const text = await option.innerText();
-    const sqm = Number(text.match(/^([0-9]+(?:\.[0-9]+)?)[A-Za-z]*㎡/)?.[1]);
+    const sqm = Number(text.match(/^([0-9]+(?:\.[0-9]+)?)[A-Za-z]*��/)?.[1]);
     if (!Number.isFinite(sqm)) continue;
     const pyeong = sqm * PYEONG_PER_SQM;
     if (pyeong >= minPyeong && pyeong < maxPyeong + 1) {
@@ -99,42 +99,47 @@ async function targetAreaGroups(page, { minPyeong = 30, maxPyeong = 39 } = {}) {
   return [...groups.entries()].sort(([a], [b]) => a - b);
 }
 
+async function setAreaOption(page, id, shouldCheck) {
+  const option = page.locator(`label[for="${id}"]`);
+  const isChecked = String(await option.getAttribute('class')).includes('is-checked');
+  if (isChecked === shouldCheck) return;
+
+  // The map can overlap the filter visually. Trigger the label's normal DOM
+  // click so the selection does not depend on its viewport position.
+  await option.evaluate((label) => label.click());
+  await page.waitForTimeout(150);
+  const updated = String(await option.getAttribute('class')).includes('is-checked');
+  if (updated !== shouldCheck) throw new Error(`Area filter did not update: ${id}`);
+}
+
 async function selectAreaGroup(page, targetIds) {
   const wanted = new Set(targetIds);
-  const { button, options } = await openCheckboxFilter(page, '면적', '면적-checkbox-');
+  const { button, options } = await openCheckboxFilter(page, '����', '����-checkbox-');
   const optionCount = await options.count();
   const states = [];
   for (let index = 0; index < optionCount; index += 1) {
     const option = options.nth(index);
     const id = await option.getAttribute('for');
     const text = await option.innerText();
-    if (!/^([0-9]+(?:\.[0-9]+)?)[A-Za-z]*㎡/.test(text)) continue;
+    if (!/^([0-9]+(?:\.[0-9]+)?)[A-Za-z]*��/.test(text)) continue;
     const shouldCheck = wanted.has(id);
     const isChecked = String(await option.getAttribute('class')).includes('is-checked');
-    states.push({ id, option, shouldCheck, isChecked });
+    states.push({ id, shouldCheck, isChecked });
   }
 
   const mismatches = states.filter(({ shouldCheck, isChecked }) => shouldCheck !== isChecked);
   if (mismatches.length > wanted.size + 1) {
     // Clearing dozens of options one by one is very slow because every click
-    // refreshes the listing. Toggle 전체면적 to select all, then clear all,
+    // refreshes the listing. Toggle ��ü���� to select all, then clear all,
     // and enable only the desired area types.
-    const allAreas = page.locator('label[for="면적-checkbox-0"]');
-    const allChecked = String(await allAreas.getAttribute('class')).includes('is-checked');
-    if (!allChecked) {
-      await allAreas.click();
-      await page.waitForTimeout(150);
-    }
-    await allAreas.click();
-    await page.waitForTimeout(150);
+    await setAreaOption(page, '����-checkbox-0', true);
+    await setAreaOption(page, '����-checkbox-0', false);
     for (const id of wanted) {
-      await page.locator(`label[for="${id}"]`).click();
-      await page.waitForTimeout(150);
+      await setAreaOption(page, id, true);
     }
   } else {
-    for (const { option } of mismatches) {
-      await option.click();
-      await page.waitForTimeout(150);
+    for (const { id, shouldCheck } of mismatches) {
+      await setAreaOption(page, id, shouldCheck);
     }
   }
   await button.click();
@@ -145,7 +150,7 @@ async function selectLowestPriceSort(page) {
   const priceSort = page.locator('label[for="filterOrder2"]').first();
   if (!await priceSort.isVisible().catch(() => false)) {
     const cards = await renderedCards(page);
-    if (!cards.length) throw new Error('가격순 정렬 버튼과 매물 목록을 모두 찾지 못했습니다');
+    if (!cards.length) throw new Error('���ݼ� ���� ��ư�� �Ź� ����� ��� ã�� ���߽��ϴ�');
     const first = cards[0]?.href || cards[0]?.text || '';
     return { beforeFirst: first, afterFirst: first, unavailable: true };
   }
@@ -153,7 +158,7 @@ async function selectLowestPriceSort(page) {
   const before = await renderedCards(page);
   const beforeFirst = before[0]?.href || before[0]?.text || '';
   const currentLabel = await priceSort.innerText();
-  if (/낮은\s*가격순/.test(currentLabel)) {
+  if (/����\s*���ݼ�/.test(currentLabel)) {
     return { beforeFirst, afterFirst: beforeFirst, alreadySelected: true };
   }
   const priceInput = page.locator('#filterOrder2');
@@ -172,16 +177,16 @@ async function selectLowestPriceSort(page) {
   if (!await isPriceSelected()) {
     await priceSort.click();
     if (!await waitUntil(isPriceSelected)) {
-      throw new Error('가격순 정렬 선택이 적용되지 않았습니다');
+      throw new Error('���ݼ� ���� ������ ������� �ʾҽ��ϴ�');
     }
   }
-  if (!/낮은\s*가격순/.test(await priceSort.innerText())) {
+  if (!/����\s*���ݼ�/.test(await priceSort.innerText())) {
     await priceSort.click();
-    await waitUntil(async () => /낮은\s*가격순/.test(await priceSort.innerText()), 8_000);
+    await waitUntil(async () => /����\s*���ݼ�/.test(await priceSort.innerText()), 8_000);
   }
   const selectedLabel = await priceSort.innerText();
-  if (!/낮은\s*가격순/.test(selectedLabel)) {
-    throw new Error(`낮은 가격순 정렬을 확인하지 못했습니다: ${selectedLabel}`);
+  if (!/����\s*���ݼ�/.test(selectedLabel)) {
+    throw new Error(`���� ���ݼ� ������ Ȯ������ ���߽��ϴ�: ${selectedLabel}`);
   }
 
   // A selected sort can keep the same first listing. Waiting for the article
@@ -191,7 +196,7 @@ async function selectLowestPriceSort(page) {
     .first().waitFor({ state: 'visible', timeout: 30_000 });
   await page.waitForTimeout(1_000);
   const after = await renderedCards(page);
-  if (!after.length) throw new Error('가격순 정렬 후 매물 목록이 비었습니다');
+  if (!after.length) throw new Error('���ݼ� ���� �� �Ź� ����� ������ϴ�');
 
   return { beforeFirst, afterFirst: after[0]?.href || after[0]?.text || '' };
 }
@@ -319,7 +324,7 @@ async function collectComplex(page, complex) {
         .then(() => true)
         .catch(() => false);
       if (!hasCards) {
-        console.log(`[INFO] ${complex.complexNumber} ${numericArea}㎡: no sale listings`);
+        console.log(`[INFO] ${complex.complexNumber} ${numericArea}��: no sale listings`);
         continue;
       }
       const sortState = await selectLowestPriceSort(page);
@@ -331,11 +336,11 @@ async function collectComplex(page, complex) {
         ? await scrollArticleList(page)
         : firstPageCards;
       addCards(areaCards);
-      console.log(`[INFO] ${complex.complexNumber} ${numericArea}㎡: supplemental ${firstPageCards.length}, candidates ${firstPageSelected}`);
+      console.log(`[INFO] ${complex.complexNumber} ${numericArea}��: supplemental ${firstPageCards.length}, candidates ${firstPageSelected}`);
     }
   }
   const cards = [...cardMap.values()];
-  if (!cards.length) throw new Error('화면에서 매물 카드를 찾지 못했습니다');
+  if (!cards.length) throw new Error('ȭ�鿡�� �Ź� ī�带 ã�� ���߽��ϴ�');
   const rows = selectRenderedListings(cards, complex);
   console.log(`[OK] ${complex.complexNumber}: areas ${areaGroups.length}, accumulated ${cards.length}, price-sort ${sortChanged ? 'changed' : 'stable'}, selected ${rows.length} listings`);
   return rows;
@@ -351,17 +356,17 @@ async function main() {
     : allConfigured;
   const complexes = configured.filter((item) => item.collectionReady === true && item.pageUrl);
   console.log(`[INFO] configured ${configured.length}, collection-ready ${complexes.length}, pending ${configured.length - complexes.length}`);
-  if (!complexes.length) throw new Error('수집 준비가 완료된 단지가 없습니다');
+  if (!complexes.length) throw new Error('���� �غ� �Ϸ�� ������ �����ϴ�');
   let browser;
   try {
     browser = await chromium.connectOverCDP('http://127.0.0.1:9222');
   } catch (error) {
-    throw new Error('수집용 Chrome에 연결할 수 없습니다. 먼저 npm.cmd run browser를 실행하세요.', { cause: error });
+    throw new Error('������ Chrome�� ������ �� �����ϴ�. ���� npm.cmd run browser�� �����ϼ���.', { cause: error });
   }
   const context = browser.contexts()[0];
   const pages = context.pages();
   const page = pages.find((candidate) => candidate.url().startsWith('https://fin.land.naver.com/map'));
-  if (!page) throw new Error('수집용 Chrome에서 네이버 부동산 지도 탭을 찾지 못했습니다');
+  if (!page) throw new Error('������ Chrome���� ���̹� �ε��� ���� ���� ã�� ���߽��ϴ�');
   const failures = [];
   const rows = [];
 
