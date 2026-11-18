@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-17T20:00:33.228Z",
+  "generatedAt": "2026-11-18T20:00:29.094Z",
   "rows": [
     {
       "complexName": "마곡엠밸리1단지",
       "complexNumber": 107482,
       "supplySpace": 118,
       "supplySpaceName": "118G㎡",
-      "articleNumber": "2662358879",
+      "articleNumber": "2662568734",
       "dealPrice": 170000,
       "dongName": "104동",
       "floorInfo": "10/13층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 6
     },
     {
       "complexName": "마곡엠밸리1단지",
@@ -24,7 +24,7 @@
       "dealPrice": 160000,
       "dongName": "103동",
       "floorInfo": "4/10층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 3
@@ -69,7 +69,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 11
+      "realtorCount": 10
     },
     {
       "complexName": "마곡엠밸리2단지",
@@ -94,7 +94,7 @@
       "dealPrice": 170000,
       "dongName": "206동",
       "floorInfo": "저/13층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 3
@@ -104,11 +104,11 @@
       "complexNumber": 107961,
       "supplySpace": 115,
       "supplySpaceName": "115B㎡",
-      "articleNumber": "2660541604",
+      "articleNumber": "2662568866",
       "dealPrice": 176000,
       "dongName": "302동",
       "floorInfo": "중/15층",
-      "articleConfirmDate": "2026.11.09",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 1
@@ -153,7 +153,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 12
+      "realtorCount": 11
     },
     {
       "complexName": "마곡엠밸리4단지",
@@ -167,7 +167,7 @@
       "articleConfirmDate": "2026.11.10",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 6
+      "realtorCount": 4
     },
     {
       "complexName": "마곡엠밸리4단지",
@@ -192,7 +192,7 @@
       "dealPrice": 180000,
       "dongName": "506동",
       "floorInfo": "8/10층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 43
@@ -230,11 +230,11 @@
       "complexNumber": 107506,
       "supplySpace": 113,
       "supplySpaceName": "113D㎡",
-      "articleNumber": "",
+      "articleNumber": "2662532152",
       "dealPrice": 200000,
       "dongName": "615동",
       "floorInfo": "9/15층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 11
@@ -248,10 +248,10 @@
       "dealPrice": 220000,
       "dongName": "705동",
       "floorInfo": "6/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 16
+      "realtorCount": 15
     },
     {
       "complexName": "마곡엠밸리7단지",
@@ -265,7 +265,7 @@
       "articleConfirmDate": "2026.11.12",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 7
     },
     {
       "complexName": "마곡엠밸리8단지",
@@ -276,10 +276,10 @@
       "dealPrice": 170000,
       "dongName": "804동",
       "floorInfo": "1/15층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 12
+      "realtorCount": 10
     },
     {
       "complexName": "마곡엠밸리8단지",
@@ -290,7 +290,7 @@
       "dealPrice": 175000,
       "dongName": "806동",
       "floorInfo": "3/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 9
@@ -328,13 +328,13 @@
       "complexNumber": 131224,
       "supplySpace": 117,
       "supplySpaceName": "117G㎡",
-      "articleNumber": "2662005440",
+      "articleNumber": "2662713338",
       "dealPrice": 180000,
       "dongName": "913동",
       "floorInfo": "저/16층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "입주 협의가능, 풀 시스템에어컨, 상태 깔끔, 트인 뷰",
+      "articleFeatureDescription": "35.5P, 21년준공, 신축급, 강서구청 세무소 원그로브인접, 1층아님",
       "realtorCount": 1
     },
     {
@@ -416,10 +416,10 @@
       "dealPrice": 169500,
       "dongName": "1106동",
       "floorInfo": "9/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 8
     },
     {
       "complexName": "마곡엠밸리12단지",
@@ -430,7 +430,7 @@
       "dealPrice": 179000,
       "dongName": "1206동",
       "floorInfo": "5/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 9
@@ -444,7 +444,7 @@
       "dealPrice": 182000,
       "dongName": "1201동",
       "floorInfo": "중/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 9
@@ -514,10 +514,10 @@
       "dealPrice": 176000,
       "dongName": "1315동",
       "floorInfo": "2/16층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 7
     },
     {
       "complexName": "마곡13단지힐스테이트마스터",
@@ -528,7 +528,7 @@
       "dealPrice": 178000,
       "dongName": "1315동",
       "floorInfo": "3/16층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 8
@@ -584,7 +584,7 @@
       "dealPrice": 190000,
       "dongName": "1503동",
       "floorInfo": "8/16층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 12
@@ -640,7 +640,7 @@
       "dealPrice": 165000,
       "dongName": "107동",
       "floorInfo": "1/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 16
@@ -724,10 +724,10 @@
       "dealPrice": 280000,
       "dongName": "113동",
       "floorInfo": "1/5층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 10
+      "realtorCount": 11
     },
     {
       "complexName": "목동신시가지1단지",
@@ -752,10 +752,10 @@
       "dealPrice": 282000,
       "dongName": "123동",
       "floorInfo": "4/15층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 16
+      "realtorCount": 15
     },
     {
       "complexName": "목동신시가지1단지",
@@ -789,15 +789,15 @@
       "complexName": "목동신시가지1단지",
       "complexNumber": 652,
       "supplySpace": 115,
-      "supplySpaceName": "115A㎡",
+      "supplySpaceName": "115C㎡",
       "articleNumber": "",
       "dealPrice": 300000,
-      "dongName": "114동",
-      "floorInfo": "3/5층",
-      "articleConfirmDate": "2026.11.12",
+      "dongName": "115동",
+      "floorInfo": "4/5층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 11
+      "realtorCount": 3
     },
     {
       "complexName": "목동신시가지1단지",
@@ -836,10 +836,24 @@
       "dealPrice": 284000,
       "dongName": "101동",
       "floorInfo": "2/5층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 18
+      "realtorCount": 19
+    },
+    {
+      "complexName": "목동신시가지1단지",
+      "complexNumber": 652,
+      "supplySpace": 120,
+      "supplySpaceName": "120D㎡",
+      "articleNumber": "",
+      "dealPrice": 285000,
+      "dongName": "108동",
+      "floorInfo": "5/5층",
+      "articleConfirmDate": "2026.11.13",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "",
+      "realtorCount": 9
     },
     {
       "complexName": "목동신시가지1단지",
@@ -850,24 +864,10 @@
       "dealPrice": 290000,
       "dongName": "128동",
       "floorInfo": "4/5층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 5
-    },
-    {
-      "complexName": "목동신시가지1단지",
-      "complexNumber": 652,
-      "supplySpace": 120,
-      "supplySpaceName": "120D㎡",
-      "articleNumber": "",
-      "dealPrice": 291000,
-      "dongName": "108동",
-      "floorInfo": "5/5층",
-      "articleConfirmDate": "2026.11.13",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 10
+      "realtorCount": 6
     },
     {
       "complexName": "목동신시가지2단지",
@@ -889,13 +889,13 @@
       "supplySpace": 119,
       "supplySpaceName": "119C㎡",
       "articleNumber": "",
-      "dealPrice": 290000,
-      "dongName": "222동",
-      "floorInfo": "14/15층",
-      "articleConfirmDate": "2026.11.17",
+      "dealPrice": 285000,
+      "dongName": "220동",
+      "floorInfo": "2/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 4
+      "realtorCount": 7
     },
     {
       "complexName": "목동신시가지2단지",
@@ -906,7 +906,7 @@
       "dealPrice": 290000,
       "dongName": "225동",
       "floorInfo": "8/12층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 18
@@ -917,13 +917,13 @@
       "supplySpace": 119,
       "supplySpaceName": "119C㎡",
       "articleNumber": "",
-      "dealPrice": 295000,
-      "dongName": "220동",
-      "floorInfo": "2/15층",
-      "articleConfirmDate": "2026.11.11",
+      "dealPrice": 290000,
+      "dongName": "222동",
+      "floorInfo": "14/15층",
+      "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 4
     },
     {
       "complexName": "목동신시가지2단지",
@@ -937,7 +937,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 22
+      "realtorCount": 21
     },
     {
       "complexName": "목동신시가지2단지",
@@ -951,7 +951,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 6
     },
     {
       "complexName": "목동신시가지3단지",
@@ -976,10 +976,10 @@
       "dealPrice": 275000,
       "dongName": "318동",
       "floorInfo": "1/5층",
-      "articleConfirmDate": "2026.11.12",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 8
     },
     {
       "complexName": "목동신시가지3단지",
@@ -1032,10 +1032,10 @@
       "dealPrice": 285000,
       "dongName": "301동",
       "floorInfo": "4/5층",
-      "articleConfirmDate": "2026.11.06",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 9
+      "realtorCount": 11
     },
     {
       "complexName": "목동신시가지3단지",
@@ -1077,7 +1077,7 @@
       "articleConfirmDate": "2026.11.12",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 6
     },
     {
       "complexName": "목동신시가지4단지",
@@ -1144,7 +1144,7 @@
       "dealPrice": 300000,
       "dongName": "502동",
       "floorInfo": "2/5층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 8
@@ -1203,7 +1203,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 10
+      "realtorCount": 9
     },
     {
       "complexName": "목동신시가지5단지",
@@ -1270,7 +1270,7 @@
       "dealPrice": 330000,
       "dongName": "514동",
       "floorInfo": "9/12층",
-      "articleConfirmDate": "2026.11.12",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 5
@@ -1284,7 +1284,7 @@
       "dealPrice": 340000,
       "dongName": "722동",
       "floorInfo": "1/15층",
-      "articleConfirmDate": "2026.11.06",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 3
@@ -1297,8 +1297,8 @@
       "articleNumber": "",
       "dealPrice": 330000,
       "dongName": "705동",
-      "floorInfo": "저/15층",
-      "articleConfirmDate": "2026.11.16",
+      "floorInfo": "3/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 19
@@ -1340,7 +1340,7 @@
       "dealPrice": 285000,
       "dongName": "803동",
       "floorInfo": "2/15층",
-      "articleConfirmDate": "2026.11.10",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 13
@@ -1436,12 +1436,12 @@
       "supplySpaceName": "122A㎡",
       "articleNumber": "",
       "dealPrice": 280000,
-      "dongName": "920동",
-      "floorInfo": "고/5층",
-      "articleConfirmDate": "2026.11.06",
+      "dongName": "914동",
+      "floorInfo": "중/5층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 4
+      "realtorCount": 6
     },
     {
       "complexName": "목동신시가지9단지",
@@ -1466,7 +1466,7 @@
       "dealPrice": 300000,
       "dongName": "904동",
       "floorInfo": "저/15층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 10
@@ -1561,13 +1561,13 @@
       "supplySpace": 127,
       "supplySpaceName": "127B㎡",
       "articleNumber": "",
-      "dealPrice": 275000,
+      "dealPrice": 268000,
       "dongName": "1020동",
-      "floorInfo": "15/15층",
-      "articleConfirmDate": "2026.11.07",
+      "floorInfo": "고/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 10
+      "realtorCount": 12
     },
     {
       "complexName": "목동신시가지10단지",
@@ -1575,7 +1575,7 @@
       "supplySpace": 127,
       "supplySpaceName": "127B㎡",
       "articleNumber": "",
-      "dealPrice": 277000,
+      "dealPrice": 275000,
       "dongName": "1017동",
       "floorInfo": "2/15층",
       "articleConfirmDate": "2026.11.17",
@@ -1606,10 +1606,10 @@
       "dealPrice": 260000,
       "dongName": "1308동",
       "floorInfo": "14/15층",
-      "articleConfirmDate": "2026.11.10",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 11
+      "realtorCount": 9
     },
     {
       "complexName": "목동신시가지13단지",
@@ -1623,7 +1623,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 11
+      "realtorCount": 10
     },
     {
       "complexName": "목동신시가지13단지",
@@ -1632,12 +1632,12 @@
       "supplySpaceName": "128A㎡",
       "articleNumber": "",
       "dealPrice": 270000,
-      "dongName": "1306동",
-      "floorInfo": "14/15층",
-      "articleConfirmDate": "2026.11.17",
+      "dongName": "1301동",
+      "floorInfo": "13/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 4
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1648,7 +1648,7 @@
       "dealPrice": 235000,
       "dongName": "1433동",
       "floorInfo": "12/15층",
-      "articleConfirmDate": "2026.11.14",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 8
@@ -1665,7 +1665,7 @@
       "articleConfirmDate": "2026.11.13",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 7
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1686,14 +1686,14 @@
       "complexNumber": 669,
       "supplySpace": 109,
       "supplySpaceName": "109C㎡",
-      "articleNumber": "",
+      "articleNumber": "2661559631",
       "dealPrice": 250000,
       "dongName": "1429동",
       "floorInfo": "11/15층",
       "articleConfirmDate": "2026.11.13",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 2
+      "articleFeatureDescription": "강력추천 급매 조정가 방3개로 올수리 지분20.64 조합원승계 남향",
+      "realtorCount": 1
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1718,10 +1718,10 @@
       "dealPrice": 263000,
       "dongName": "1409동",
       "floorInfo": "1/15층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 7
+      "realtorCount": 8
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1735,7 +1735,7 @@
       "articleConfirmDate": "2026.11.16",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 5
+      "realtorCount": 4
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1746,7 +1746,7 @@
       "dealPrice": 275000,
       "dongName": "1412동",
       "floorInfo": "5/15층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 16
@@ -1763,7 +1763,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 10
+      "realtorCount": 9
     },
     {
       "complexName": "목동신시가지14단지",
@@ -1788,7 +1788,7 @@
       "dealPrice": 290000,
       "dongName": "8동",
       "floorInfo": "저/14층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 6
@@ -1798,13 +1798,13 @@
       "complexNumber": 236,
       "supplySpace": 101,
       "supplySpaceName": "101㎡",
-      "articleNumber": "2661776339",
-      "dealPrice": 293000,
-      "dongName": "8동",
+      "articleNumber": "2662692287",
+      "dealPrice": 290000,
+      "dongName": "5동",
       "floorInfo": "저/14층",
-      "articleConfirmDate": "2026.11.14",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "급매,올수리,관리처분 준비 중,대곡초, 상가내 신대치공인추천",
+      "articleFeatureDescription": "31急賣物 관리처분인가전 분양신청마감 대곡초배정 단지내삼일공인",
       "realtorCount": 1
     },
     {
@@ -1812,13 +1812,13 @@
       "complexNumber": 236,
       "supplySpace": 101,
       "supplySpaceName": "101㎡",
-      "articleNumber": "2660218106",
-      "dealPrice": 293000,
-      "dongName": "11동",
+      "articleNumber": "2662090492",
+      "dealPrice": 290000,
+      "dongName": "1동",
       "floorInfo": "저/14층",
-      "articleConfirmDate": "2026.11.06",
+      "articleConfirmDate": "2026.11.16",
       "exposureStartDate": "",
-      "articleFeatureDescription": "조합승계 주인저당 29억29.5억도 있음",
+      "articleFeatureDescription": "31 사업시행인가 재건축 임박 평형신청중",
       "realtorCount": 1
     },
     {
@@ -1840,14 +1840,14 @@
       "complexNumber": 236,
       "supplySpace": 115,
       "supplySpaceName": "115㎡",
-      "articleNumber": "2662201824",
+      "articleNumber": "",
       "dealPrice": 325000,
-      "dongName": "21동",
+      "dongName": "28동",
       "floorInfo": "저/14층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "관리처분인가 임박 분양신청진행중 조합원지위양도 가능",
-      "realtorCount": 1
+      "articleFeatureDescription": "",
+      "realtorCount": 2
     },
     {
       "complexName": "은마아파트",
@@ -1860,7 +1860,7 @@
       "floorInfo": "중/14층",
       "articleConfirmDate": "2026.11.16",
       "exposureStartDate": "",
-      "articleFeatureDescription": "34 매 매",
+      "articleFeatureDescription": "실매물 진짜 바로 계약 가능 하신분만",
       "realtorCount": 1
     },
     {
@@ -1931,7 +1931,7 @@
       "articleConfirmDate": "2026.11.17",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 24
+      "realtorCount": 21
     },
     {
       "complexName": "래미안대치팰리스",
@@ -2022,6 +2022,20 @@
       "complexNumber": 180280,
       "supplySpace": 113,
       "supplySpaceName": "113A㎡",
+      "articleNumber": "2662668646",
+      "dealPrice": 400000,
+      "dongName": "107동",
+      "floorInfo": "중/30층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "34 실매물 커뮤니티동 학원가 도보 편리한 커뮤니티 역세권",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "래미안대치팰리스",
+      "complexNumber": 180280,
+      "supplySpace": 113,
+      "supplySpaceName": "113A㎡",
       "articleNumber": "2662328053",
       "dealPrice": 410000,
       "dongName": "106동",
@@ -2044,20 +2058,6 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
-    },
-    {
-      "complexName": "래미안대치팰리스",
-      "complexNumber": 180280,
-      "supplySpace": 113,
-      "supplySpaceName": "113A㎡",
-      "articleNumber": "2660170746",
-      "dealPrice": 415000,
-      "dongName": "107동",
-      "floorInfo": "중/30층",
-      "articleConfirmDate": "2026.11.06",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "34 실매물 커뮤니티동 학원가 도보 편리한 커뮤니티 역세권",
-      "realtorCount": 1
     },
     {
       "complexName": "래미안대치팰리스",
@@ -2092,11 +2092,11 @@
       "complexNumber": 180280,
       "supplySpace": 122,
       "supplySpaceName": "122E㎡",
-      "articleNumber": "2662154638",
+      "articleNumber": "2662658443",
       "dealPrice": 440000,
       "dongName": "202동",
       "floorInfo": "고/35층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 1
@@ -2138,7 +2138,7 @@
       "dealPrice": 430000,
       "dongName": "202동",
       "floorInfo": "중/35층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 14
@@ -2232,14 +2232,14 @@
       "complexNumber": 180280,
       "supplySpace": 126,
       "supplySpaceName": "126A㎡",
-      "articleNumber": "2660733012",
+      "articleNumber": "",
       "dealPrice": 455000,
-      "dongName": "103동",
-      "floorInfo": "저/22층",
-      "articleConfirmDate": "2026.11.09",
+      "dongName": "112동",
+      "floorInfo": "중/34층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 1
+      "realtorCount": 2
     },
     {
       "complexName": "디에이치퍼스티어아이파크",
@@ -2316,11 +2316,11 @@
       "complexNumber": 134062,
       "supplySpace": 111,
       "supplySpaceName": "111B㎡",
-      "articleNumber": "2657385847",
+      "articleNumber": "2662624756",
       "dealPrice": 335000,
       "dongName": "121동",
       "floorInfo": "중/31층",
-      "articleConfirmDate": "2026.10.23",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 1
@@ -2428,6 +2428,20 @@
       "complexNumber": 128527,
       "supplySpace": 102,
       "supplySpaceName": "102A㎡",
+      "articleNumber": "2662618894",
+      "dealPrice": 335000,
+      "dongName": "403동",
+      "floorInfo": "중/12층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "매매 학교 교통 가까운동 xi 최대 최고 커뮤니티",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "개포자이프레지던스",
+      "complexNumber": 128527,
+      "supplySpace": 102,
+      "supplySpaceName": "102A㎡",
       "articleNumber": "2661027227",
       "dealPrice": 335000,
       "dongName": "407동",
@@ -2436,20 +2450,6 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 3
-    },
-    {
-      "complexName": "개포자이프레지던스",
-      "complexNumber": 128527,
-      "supplySpace": 102,
-      "supplySpaceName": "102A㎡",
-      "articleNumber": "2662102405",
-      "dealPrice": 335000,
-      "dongName": "403동",
-      "floorInfo": "중/12층",
-      "articleConfirmDate": "2026.11.16",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "매매 학교 교통 가까운동 xi 최대 최고 커뮤니티",
-      "realtorCount": 1
     },
     {
       "complexName": "개포자이프레지던스",
@@ -2470,6 +2470,20 @@
       "complexNumber": 128527,
       "supplySpace": 110,
       "supplySpaceName": "110A㎡",
+      "articleNumber": "2662566959",
+      "dealPrice": 340000,
+      "dongName": "429동",
+      "floorInfo": "저/26층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "34,남향동,기반시설커뮤니티 인근동,중석식제공.초특",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "개포자이프레지던스",
+      "complexNumber": 128527,
+      "supplySpace": 110,
+      "supplySpaceName": "110A㎡",
       "articleNumber": "2662345061",
       "dealPrice": 340000,
       "dongName": "410동",
@@ -2478,20 +2492,6 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
-    },
-    {
-      "complexName": "개포자이프레지던스",
-      "complexNumber": 128527,
-      "supplySpace": 110,
-      "supplySpaceName": "110A㎡",
-      "articleNumber": "2662029599",
-      "dealPrice": 340000,
-      "dongName": "429동",
-      "floorInfo": "저/26층",
-      "articleConfirmDate": "2026.11.16",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "34,남향동,기반시설커뮤니티 인근동,중석식제공.초특",
-      "realtorCount": 1
     },
     {
       "complexName": "래미안블레스티지",
@@ -2554,6 +2554,20 @@
       "complexNumber": 112228,
       "supplySpace": 115,
       "supplySpaceName": "115D㎡",
+      "articleNumber": "2661678340",
+      "dealPrice": 320000,
+      "dongName": "212동",
+      "floorInfo": "고/35층",
+      "articleConfirmDate": "2026.11.13",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "34 실매물, 로얄동 커뮤니티인근동 생활편리",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "래미안블레스티지",
+      "complexNumber": 112228,
+      "supplySpace": 115,
+      "supplySpaceName": "115D㎡",
       "articleNumber": "",
       "dealPrice": 320000,
       "dongName": "210동",
@@ -2562,20 +2576,6 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
-    },
-    {
-      "complexName": "래미안블레스티지",
-      "complexNumber": 112228,
-      "supplySpace": 115,
-      "supplySpaceName": "115D㎡",
-      "articleNumber": "2660924576",
-      "dealPrice": 320000,
-      "dongName": "211동",
-      "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.10",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "카페,사우나,휘트니스,골프,수영장등 호텔급 커뮤니티",
-      "realtorCount": 1
     },
     {
       "complexName": "래미안블레스티지",
@@ -2652,14 +2652,14 @@
       "complexNumber": 119219,
       "supplySpace": 101,
       "supplySpaceName": "101㎡",
-      "articleNumber": "",
+      "articleNumber": "2661741167",
       "dealPrice": 300000,
-      "dongName": "117동",
-      "floorInfo": "중/12층",
+      "dongName": "126동",
+      "floorInfo": "고/25층",
       "articleConfirmDate": "2026.11.13",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 3
+      "articleFeatureDescription": "31.매매.빠른진행가능. 숲세권.하이엔드커뮤니티.프리미엄조중석식",
+      "realtorCount": 1
     },
     {
       "complexName": "개포래미안포레스트",
@@ -2693,15 +2693,15 @@
       "complexName": "개포래미안포레스트",
       "complexNumber": 119219,
       "supplySpace": 115,
-      "supplySpaceName": "115A㎡",
-      "articleNumber": "",
+      "supplySpaceName": "115B㎡",
+      "articleNumber": "2662698921",
       "dealPrice": 310000,
-      "dongName": "118동",
-      "floorInfo": "중/29층",
-      "articleConfirmDate": "2026.11.17",
+      "dongName": "115동",
+      "floorInfo": "중/35층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 2
+      "articleFeatureDescription": "35 풀에어컨 풀옵션 최고급커뮤니티 조중석식서비스",
+      "realtorCount": 1
     },
     {
       "complexName": "개포래미안포레스트",
@@ -2722,11 +2722,11 @@
       "complexNumber": 119219,
       "supplySpace": 128,
       "supplySpaceName": "128A㎡",
-      "articleNumber": "2662307450",
+      "articleNumber": "",
       "dealPrice": 370000,
       "dongName": "115동",
       "floorInfo": "고/35층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.19",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 4
@@ -2750,25 +2750,11 @@
       "complexNumber": 119219,
       "supplySpace": 129,
       "supplySpaceName": "129B㎡",
-      "articleNumber": "2661724362",
+      "articleNumber": "2662555423",
       "dealPrice": 350000,
       "dongName": "124동",
       "floorInfo": "중/34층",
-      "articleConfirmDate": "2026.11.13",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 1
-    },
-    {
-      "complexName": "개포래미안포레스트",
-      "complexNumber": 119219,
-      "supplySpace": 129,
-      "supplySpaceName": "129B㎡",
-      "articleNumber": "2661328896",
-      "dealPrice": 365000,
-      "dongName": "115동",
-      "floorInfo": "저/35층",
-      "articleConfirmDate": "2026.11.12",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "로얄타입 관리상태 양호 명품커뮤니티",
       "realtorCount": 1
@@ -2786,6 +2772,34 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "39, 달터공원뷰, 명품커뮤니티, 조중석식서비스",
       "realtorCount": 1
+    },
+    {
+      "complexName": "개포래미안포레스트",
+      "complexNumber": 119219,
+      "supplySpace": 129,
+      "supplySpaceName": "129B㎡",
+      "articleNumber": "2659016726",
+      "dealPrice": 375000,
+      "dongName": "104동",
+      "floorInfo": "고/33층",
+      "articleConfirmDate": "2026.11.02",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "39 집주인의뢰 확인매물 로얄동 로얄층 구룡초 명품커뮤니티",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "대치아이파크",
+      "complexNumber": 19418,
+      "supplySpace": 107,
+      "supplySpaceName": "107C㎡",
+      "articleNumber": "",
+      "dealPrice": 370000,
+      "dongName": "108동",
+      "floorInfo": "저/25층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "",
+      "realtorCount": 14
     },
     {
       "complexName": "대치아이파크",
@@ -2806,27 +2820,13 @@
       "complexNumber": 19418,
       "supplySpace": 107,
       "supplySpaceName": "107C㎡",
-      "articleNumber": "",
-      "dealPrice": 370000,
+      "articleNumber": "2659332370",
+      "dealPrice": 400000,
       "dongName": "108동",
-      "floorInfo": "저/25층",
-      "articleConfirmDate": "2026.11.16",
+      "floorInfo": "중/25층",
+      "articleConfirmDate": "2026.11.03",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 13
-    },
-    {
-      "complexName": "대치아이파크",
-      "complexNumber": 19418,
-      "supplySpace": 107,
-      "supplySpaceName": "107C㎡",
-      "articleNumber": "2656206003",
-      "dealPrice": 390000,
-      "dongName": "108동",
-      "floorInfo": "저/25층",
-      "articleConfirmDate": "2026.10.19",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "32 확장 세안고 매매 단대학군 초역세권 학세권 숲세권 백화점 병원",
+      "articleFeatureDescription": "32 주인직매물 올확장 탁트인전망 입주협의",
       "realtorCount": 1
     },
     {
@@ -2883,7 +2883,21 @@
       "articleConfirmDate": "2026.11.16",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 13
+      "realtorCount": 12
+    },
+    {
+      "complexName": "반포자이",
+      "complexNumber": 22853,
+      "supplySpace": 116,
+      "supplySpaceName": "116C㎡",
+      "articleNumber": "2662683597",
+      "dealPrice": 412000,
+      "dongName": "140동",
+      "floorInfo": "중/28층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "34 O 급매 O 주인직 컨디션굿 햇살가득 명품단지 원촌초",
+      "realtorCount": 1
     },
     {
       "complexName": "반포자이",
@@ -2911,20 +2925,6 @@
       "articleConfirmDate": "2026.10.26",
       "exposureStartDate": "",
       "articleFeatureDescription": "35형 소유자직접 판상형 원촌초 원촌중",
-      "realtorCount": 1
-    },
-    {
-      "complexName": "반포자이",
-      "complexNumber": 22853,
-      "supplySpace": 116,
-      "supplySpaceName": "116A㎡",
-      "articleNumber": "2660715316",
-      "dealPrice": 413000,
-      "dongName": "136동",
-      "floorInfo": "저/28층",
-      "articleConfirmDate": "2026.11.09",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "35 정원뷰 관리잘된 집 역세권 협의가능",
       "realtorCount": 1
     },
     {
@@ -2960,14 +2960,14 @@
       "complexNumber": 142155,
       "supplySpace": 100,
       "supplySpaceName": "100B㎡",
-      "articleNumber": "",
-      "dealPrice": 580000,
-      "dongName": "117동",
-      "floorInfo": "19/33층",
+      "articleNumber": "2662633843",
+      "dealPrice": 540000,
+      "dongName": "118동",
+      "floorInfo": "저/33층",
       "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 30
+      "articleFeatureDescription": "30 인기있는 판상형 입주협의 가능 프리미엄 커뮤니티",
+      "realtorCount": 1
     },
     {
       "complexName": "래미안원베일리",
@@ -3002,13 +3002,27 @@
       "complexNumber": 142155,
       "supplySpace": 111,
       "supplySpaceName": "111D㎡",
-      "articleNumber": "2657449025",
+      "articleNumber": "2662620480",
       "dealPrice": 500000,
       "dongName": "118동",
       "floorInfo": "저/33층",
-      "articleConfirmDate": "2026.10.24",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "34 저렴한 급매,기회가 왔어요",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "래미안원베일리",
+      "complexNumber": 142155,
+      "supplySpace": 112,
+      "supplySpaceName": "112K㎡",
+      "articleNumber": "2662212175",
+      "dealPrice": 490000,
+      "dongName": "115동",
+      "floorInfo": "고/34층",
+      "articleConfirmDate": "2026.11.16",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "초급매,다시올수없는가격 가장선호타입 로얄동 로얄층",
       "realtorCount": 1
     },
     {
@@ -3024,20 +3038,6 @@
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
-    },
-    {
-      "complexName": "래미안원베일리",
-      "complexNumber": 142155,
-      "supplySpace": 112,
-      "supplySpaceName": "112K㎡",
-      "articleNumber": "2662212175",
-      "dealPrice": 490000,
-      "dongName": "115동",
-      "floorInfo": "고/34층",
-      "articleConfirmDate": "2026.11.16",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "초급매,다시올수없는가격 가장선호타입 로얄동 로얄층",
-      "realtorCount": 1
     },
     {
       "complexName": "래미안원베일리",
@@ -3366,25 +3366,25 @@
       "complexNumber": 126726,
       "supplySpace": 115,
       "supplySpaceName": "115C㎡",
-      "articleNumber": "2661650752",
+      "articleNumber": "",
       "dealPrice": 400000,
       "dongName": "104동",
       "floorInfo": "중/35층",
-      "articleConfirmDate": "2026.11.13",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 9
     },
     {
       "complexName": "서초그랑자이",
       "complexNumber": 126726,
       "supplySpace": 115,
       "supplySpaceName": "115D㎡",
-      "articleNumber": "2662463224",
+      "articleNumber": "2662698522",
       "dealPrice": 420000,
       "dongName": "102동",
       "floorInfo": "고/35층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 12
@@ -3394,11 +3394,11 @@
       "complexNumber": 126726,
       "supplySpace": 122,
       "supplySpaceName": "122A㎡",
-      "articleNumber": "2662486677",
+      "articleNumber": "2662692903",
       "dealPrice": 445000,
       "dongName": "102동",
       "floorInfo": "중/35층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -3408,11 +3408,11 @@
       "complexNumber": 126726,
       "supplySpace": 123,
       "supplySpaceName": "123B㎡",
-      "articleNumber": "2662081437",
+      "articleNumber": "2662722874",
       "dealPrice": 450000,
       "dongName": "102동",
       "floorInfo": "고/35층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.19",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 12
@@ -3464,11 +3464,11 @@
       "complexNumber": 126726,
       "supplySpace": 128,
       "supplySpaceName": "128B㎡",
-      "articleNumber": "2662488039",
+      "articleNumber": "2662696027",
       "dealPrice": 450000,
       "dongName": "106동",
       "floorInfo": "고/34층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -3478,14 +3478,14 @@
       "complexNumber": 126726,
       "supplySpace": 128,
       "supplySpaceName": "128B㎡",
-      "articleNumber": "2662487637",
+      "articleNumber": "2662696153",
       "dealPrice": 460000,
       "dongName": "106동",
       "floorInfo": "32/34층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 29
+      "realtorCount": 28
     },
     {
       "complexName": "서초그랑자이",
@@ -3499,6 +3499,20 @@
       "articleConfirmDate": "2026.11.12",
       "exposureStartDate": "",
       "articleFeatureDescription": "39 고층 풀옵션. 호텔급 커뮤니티. 강남역세권",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "헬리오시티",
+      "complexNumber": 111515,
+      "supplySpace": 107,
+      "supplySpaceName": "107A㎡",
+      "articleNumber": "2662569757",
+      "dealPrice": 259000,
+      "dongName": "417동",
+      "floorInfo": "저/24층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "33.남향 입주가능 초역세권 중심상가인접 에어콘풀",
       "realtorCount": 1
     },
     {
@@ -3520,25 +3534,11 @@
       "complexNumber": 111515,
       "supplySpace": 107,
       "supplySpaceName": "107A㎡",
-      "articleNumber": "2662445193",
-      "dealPrice": 270000,
-      "dongName": "217동",
-      "floorInfo": "저/28층",
-      "articleConfirmDate": "2026.11.17",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "34 남향 채광굿,해누리초,스포츠존 인접,입주협의",
-      "realtorCount": 1
-    },
-    {
-      "complexName": "헬리오시티",
-      "complexNumber": 111515,
-      "supplySpace": 107,
-      "supplySpaceName": "107A㎡",
-      "articleNumber": "2662265891",
+      "articleNumber": "2662679527",
       "dealPrice": 270000,
       "dongName": "418동",
       "floorInfo": "저/27층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "입주매물, 탁트인 남향 송파역초역세권 상가이용 편리해요",
       "realtorCount": 1
@@ -3549,10 +3549,10 @@
       "supplySpace": 108,
       "supplySpaceName": "108K㎡",
       "articleNumber": "",
-      "dealPrice": 260000,
+      "dealPrice": 258000,
       "dongName": "410동",
       "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.10",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -3590,11 +3590,11 @@
       "complexNumber": 111515,
       "supplySpace": 109,
       "supplySpaceName": "109C㎡",
-      "articleNumber": "2660888076",
-      "dealPrice": 260000,
+      "articleNumber": "",
+      "dealPrice": 259000,
       "dongName": "405동",
       "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.10",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -3636,10 +3636,24 @@
       "dealPrice": 257000,
       "dongName": "403동",
       "floorInfo": "1/29층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.19",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 3
+      "realtorCount": 72
+    },
+    {
+      "complexName": "헬리오시티",
+      "complexNumber": 111515,
+      "supplySpace": 110,
+      "supplySpaceName": "110D㎡",
+      "articleNumber": "2662653979",
+      "dealPrice": 257000,
+      "dongName": "403동",
+      "floorInfo": "저/29층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "33p 급매 입주 초역세권 정원뷰 상가이용편리",
+      "realtorCount": 1
     },
     {
       "complexName": "헬리오시티",
@@ -3650,24 +3664,10 @@
       "dealPrice": 257000,
       "dongName": "404동",
       "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
-    },
-    {
-      "complexName": "헬리오시티",
-      "complexNumber": 111515,
-      "supplySpace": 110,
-      "supplySpaceName": "110D㎡",
-      "articleNumber": "2662152292",
-      "dealPrice": 257000,
-      "dongName": "411동",
-      "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.16",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "33 역세권 이쁜정원뷰 남향 에어컨풀 입주가능",
-      "realtorCount": 1
     },
     {
       "complexName": "헬리오시티",
@@ -3762,10 +3762,10 @@
       "dealPrice": 268000,
       "dongName": "225동",
       "floorInfo": "저/33층",
-      "articleConfirmDate": "2026.11.16",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 9
+      "realtorCount": 10
     },
     {
       "complexName": "파크리오",
@@ -3804,10 +3804,10 @@
       "dealPrice": 289000,
       "dongName": "162동",
       "floorInfo": "저/28층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 9
+      "realtorCount": 8
     },
     {
       "complexName": "잠실엘스",
@@ -3828,14 +3828,14 @@
       "complexNumber": 22627,
       "supplySpace": 109,
       "supplySpaceName": "109B㎡",
-      "articleNumber": "",
+      "articleNumber": "2662689023",
       "dealPrice": 295000,
       "dongName": "106동",
-      "floorInfo": "1/28층",
-      "articleConfirmDate": "2026.10.28",
+      "floorInfo": "저/28층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 8
+      "articleFeatureDescription": "엘스33B 저렴한매매 올확장 초역세권 입주협의",
+      "realtorCount": 1
     },
     {
       "complexName": "잠실엘스",
@@ -3845,8 +3845,8 @@
       "articleNumber": "",
       "dealPrice": 289900,
       "dongName": "134동",
-      "floorInfo": "저/23층",
-      "articleConfirmDate": "2026.11.11",
+      "floorInfo": "중/23층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -3856,27 +3856,27 @@
       "complexNumber": 22627,
       "supplySpace": 111,
       "supplySpaceName": "111C㎡",
-      "articleNumber": "",
-      "dealPrice": 290000,
+      "articleNumber": "2661132806",
+      "dealPrice": 289900,
       "dongName": "134동",
-      "floorInfo": "중/23층",
-      "articleConfirmDate": "2026.11.16",
+      "floorInfo": "저/23층",
+      "articleConfirmDate": "2026.11.11",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 29
+      "articleFeatureDescription": "33.단지내1순위급매 입주협의 강력추천 드립니다 교통생활편리",
+      "realtorCount": 1
     },
     {
       "complexName": "잠실엘스",
       "complexNumber": 22627,
       "supplySpace": 111,
       "supplySpaceName": "111C㎡",
-      "articleNumber": "2662429690",
+      "articleNumber": "2662511066",
       "dealPrice": 290000,
       "dongName": "134동",
-      "floorInfo": "고/23층",
-      "articleConfirmDate": "2026.11.17",
+      "floorInfo": "중/23층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "역세권 남향 뻥 개방감 하시입주 상태좋음",
+      "articleFeatureDescription": "특급매 입주 올확장 탁트인뷰 녹지조망 한강뷰 학교인근 조건협의가능",
       "realtorCount": 1
     },
     {
@@ -3884,14 +3884,28 @@
       "complexNumber": 22746,
       "supplySpace": 109,
       "supplySpaceName": "109C㎡",
-      "articleNumber": "2662395304",
+      "articleNumber": "",
       "dealPrice": 314000,
       "dongName": "214동",
       "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "깔끔한 컨디션. 인프라 학군 우수. 꿀매물.",
-      "realtorCount": 1
+      "articleFeatureDescription": "",
+      "realtorCount": 2
+    },
+    {
+      "complexName": "리센츠",
+      "complexNumber": 22746,
+      "supplySpace": 109,
+      "supplySpaceName": "109C㎡",
+      "articleNumber": "",
+      "dealPrice": 315000,
+      "dongName": "214동",
+      "floorInfo": "저/29층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "",
+      "realtorCount": 20
     },
     {
       "complexName": "리센츠",
@@ -3902,24 +3916,10 @@
       "dealPrice": 315000,
       "dongName": "252동",
       "floorInfo": "저/27층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 15
-    },
-    {
-      "complexName": "리센츠",
-      "complexNumber": 22746,
-      "supplySpace": 109,
-      "supplySpaceName": "109C㎡",
-      "articleNumber": "",
-      "dealPrice": 315000,
-      "dongName": "214동",
-      "floorInfo": "저/29층",
-      "articleConfirmDate": "2026.11.17",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 20
+      "realtorCount": 2
     },
     {
       "complexName": "리센츠",
@@ -3930,10 +3930,10 @@
       "dealPrice": 330000,
       "dongName": "204동",
       "floorInfo": "중/33층",
-      "articleConfirmDate": "2026.11.13",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 5
+      "realtorCount": 6
     },
     {
       "complexName": "리센츠",
@@ -4010,13 +4010,27 @@
       "complexNumber": 19127,
       "supplySpace": 110,
       "supplySpaceName": "110㎡",
-      "articleNumber": "2662428553",
-      "dealPrice": 297000,
-      "dongName": "325동",
-      "floorInfo": "고/19층",
-      "articleConfirmDate": "2026.11.17",
+      "articleNumber": "",
+      "dealPrice": 290000,
+      "dongName": "312동",
+      "floorInfo": "고/28층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "내부 수리되어 컨디션 좋은 로얄동 확장형매물 세안고매매",
+      "articleFeatureDescription": "",
+      "realtorCount": 2
+    },
+    {
+      "complexName": "트리지움",
+      "complexNumber": 19127,
+      "supplySpace": 110,
+      "supplySpaceName": "110㎡",
+      "articleNumber": "2662149027",
+      "dealPrice": 290000,
+      "dongName": "312동",
+      "floorInfo": "중/28층",
+      "articleConfirmDate": "2026.11.16",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "급매매 역세권최고 로얄동 중앙공원 뻥뷰 .올확장,집상태최상",
       "realtorCount": 1
     },
     {
@@ -4024,42 +4038,42 @@
       "complexNumber": 19127,
       "supplySpace": 110,
       "supplySpaceName": "110㎡",
-      "articleNumber": "2659584121",
-      "dealPrice": 297000,
+      "articleNumber": "2662563215",
+      "dealPrice": 292000,
       "dongName": "341동",
       "floorInfo": "고/29층",
-      "articleConfirmDate": "2026.11.04",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "입주가능, 집보기편해요, 탁트인전망. 조건맞춰드립니다.",
       "realtorCount": 1
     },
     {
-      "complexName": "트리지움",
-      "complexNumber": 19127,
-      "supplySpace": 110,
-      "supplySpaceName": "110㎡",
-      "articleNumber": "2662138914",
-      "dealPrice": 298000,
-      "dongName": "323동",
-      "floorInfo": "고/27층",
-      "articleConfirmDate": "2026.11.16",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "판상형 입주협의 로얄층 확장형 입주 매매 있습니다",
-      "realtorCount": 1
-    },
-    {
       "complexName": "올림픽선수기자촌",
       "complexNumber": 634,
       "supplySpace": 112,
       "supplySpaceName": "112㎡",
       "articleNumber": "",
-      "dealPrice": 270000,
-      "dongName": "107동",
-      "floorInfo": "8/24층",
-      "articleConfirmDate": "2026.11.17",
+      "dealPrice": 262000,
+      "dongName": "255동",
+      "floorInfo": "고/24층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 21
+      "realtorCount": 14
+    },
+    {
+      "complexName": "올림픽선수기자촌",
+      "complexNumber": 634,
+      "supplySpace": 112,
+      "supplySpaceName": "112㎡",
+      "articleNumber": "2662552441",
+      "dealPrice": 267000,
+      "dongName": "116동",
+      "floorInfo": "중/24층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "",
+      "realtorCount": 16
     },
     {
       "complexName": "올림픽선수기자촌",
@@ -4067,10 +4081,10 @@
       "supplySpace": 112,
       "supplySpaceName": "112㎡",
       "articleNumber": "",
-      "dealPrice": 270000,
-      "dongName": "134동",
-      "floorInfo": "저/24층",
-      "articleConfirmDate": "2026.11.17",
+      "dealPrice": 267000,
+      "dongName": "252동",
+      "floorInfo": "고/24층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 12
@@ -4078,30 +4092,16 @@
     {
       "complexName": "올림픽선수기자촌",
       "complexNumber": 634,
-      "supplySpace": 112,
-      "supplySpaceName": "112㎡",
-      "articleNumber": "",
-      "dealPrice": 270000,
-      "dongName": "116동",
-      "floorInfo": "중/24층",
-      "articleConfirmDate": "2026.11.12",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 13
-    },
-    {
-      "complexName": "올림픽선수기자촌",
-      "complexNumber": 634,
       "supplySpace": 132,
       "supplySpaceName": "132A㎡",
-      "articleNumber": "2662434703",
+      "articleNumber": "2662646829",
       "dealPrice": 290000,
       "dongName": "205동",
       "floorInfo": "11/14층",
-      "articleConfirmDate": "2026.11.17",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 13
+      "realtorCount": 15
     },
     {
       "complexName": "올림픽선수기자촌",
@@ -4151,10 +4151,10 @@
       "supplySpace": 107,
       "supplySpaceName": "107㎡",
       "articleNumber": "",
-      "dealPrice": 325000,
-      "dongName": "602동",
-      "floorInfo": "11/15층",
-      "articleConfirmDate": "2026.11.14",
+      "dealPrice": 320000,
+      "dongName": "606동",
+      "floorInfo": "15/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
       "realtorCount": 2
@@ -4164,13 +4164,13 @@
       "complexNumber": 1303,
       "supplySpace": 107,
       "supplySpaceName": "107㎡",
-      "articleNumber": "2659614866",
+      "articleNumber": "2657971657",
       "dealPrice": 325000,
-      "dongName": "606동",
-      "floorInfo": "15/15층",
-      "articleConfirmDate": "2026.11.04",
+      "dongName": "608동",
+      "floorInfo": "9/13층",
+      "articleConfirmDate": "2026.10.27",
       "exposureStartDate": "",
-      "articleFeatureDescription": "25전용60배정 최저가 급매",
+      "articleFeatureDescription": "40배정 , 디에이치 르베르 , 이주비6억 ,27년1월말이사",
       "realtorCount": 1
     },
     {
@@ -4220,13 +4220,27 @@
       "complexNumber": 1307,
       "supplySpace": 114,
       "supplySpaceName": "114㎡",
-      "articleNumber": "2661413524",
-      "dealPrice": 329000,
+      "articleNumber": "2662592201",
+      "dealPrice": 325000,
+      "dongName": "706동",
+      "floorInfo": "고/15층",
+      "articleConfirmDate": "2026.11.18",
+      "exposureStartDate": "",
+      "articleFeatureDescription": "34배정이주비6억승계DH르베르올수리관리처분인가",
+      "realtorCount": 1
+    },
+    {
+      "complexName": "개포주공7단지",
+      "complexNumber": 1307,
+      "supplySpace": 114,
+      "supplySpaceName": "114㎡",
+      "articleNumber": "2662563085",
+      "dealPrice": 330000,
       "dongName": "702동",
-      "floorInfo": "중/15층",
-      "articleConfirmDate": "2026.11.12",
+      "floorInfo": "10/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "강남권 개발 호재로 인한 미래가치 확실",
+      "articleFeatureDescription": "34배정 이주비승계 내년초이주예정 현대디에이치르베르",
       "realtorCount": 1
     },
     {
@@ -4234,27 +4248,13 @@
       "complexNumber": 1307,
       "supplySpace": 114,
       "supplySpaceName": "114㎡",
-      "articleNumber": "2662314636",
+      "articleNumber": "2662586133",
       "dealPrice": 330000,
-      "dongName": "704동",
-      "floorInfo": "11/15층",
-      "articleConfirmDate": "2026.11.17",
+      "dongName": "701동",
+      "floorInfo": "9/15층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "34배정 조정가 이주비6억 관리처분인가 이주예정 현대건설 르베르",
-      "realtorCount": 1
-    },
-    {
-      "complexName": "개포주공7단지",
-      "complexNumber": 1307,
-      "supplySpace": 114,
-      "supplySpaceName": "114㎡",
-      "articleNumber": "2662432569",
-      "dealPrice": 330000,
-      "dongName": "704동",
-      "floorInfo": "7/15층",
-      "articleConfirmDate": "2026.11.17",
-      "exposureStartDate": "",
-      "articleFeatureDescription": "34배정 이주비 6억 승계 관리처분인가 27년도 상반기 이주계획",
+      "articleFeatureDescription": "급매 34배정 조정가 이주비6억 관리처분인가 이주예정 현대건설 르베르",
       "realtorCount": 1
     },
     {
@@ -4283,21 +4283,21 @@
       "articleConfirmDate": "2026.11.16",
       "exposureStartDate": "",
       "articleFeatureDescription": "",
-      "realtorCount": 8
+      "realtorCount": 9
     },
     {
       "complexName": "대치미도아파트",
       "complexNumber": 105,
       "supplySpace": 113,
       "supplySpaceName": "113㎡",
-      "articleNumber": "",
+      "articleNumber": "2662659239",
       "dealPrice": 350000,
       "dongName": "101동",
-      "floorInfo": "고/14층",
-      "articleConfirmDate": "2026.11.16",
+      "floorInfo": "중/14층",
+      "articleConfirmDate": "2026.11.18",
       "exposureStartDate": "",
-      "articleFeatureDescription": "",
-      "realtorCount": 2
+      "articleFeatureDescription": "1차 34 급매 수리잘된 특 올수리 조건 다 맞춰드림",
+      "realtorCount": 1
     },
     {
       "complexName": "대치미도아파트",
